@@ -23,7 +23,7 @@ This image shows the Chrome Developer Tools on a stream, while gaining tokens on
 Note the following things:
 - An filter is applied to only show requests containing "aws". Without it, this would be much more crowded and active (if you try it yourself).
 - The filter does not affect the graph above, only the table.
-- The blue rectangle in the graph in the upper half of the image shows the marked entry in the table below. The (almost) solid line on the hight of the rectangle are these "owl" requests.
+- The blue rectangle in the graph in the upper half of the image shows the marked entry in the table below. The (almost) solid line on the height of the rectangle are these "owl" requests.
 - The two almost solid lines (see the split at 10000000ms) are both the "owl" requests. Effectively it is one line from beginning to end. (The split is not guaranteed to happen, nor is it necessary.)
 - We have the "Type: `json`" and "Type: `fetch`" requests, always coming in pairs (without a filter, depending on timing, something else might be between them, but they are generally always together).
 - The full URL is `https://*.execute-api.us-east-2.amazonaws.com/production/v2/sentinel-tracking/owl` (more on that below)
