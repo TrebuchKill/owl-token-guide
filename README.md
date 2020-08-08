@@ -1,8 +1,8 @@
 Written on 08.08.2020
 
 # Content
-### [General Information](#general-information)
-### [The URL breakdown](#the-url-breakdown)
+### [General Information](#general-information-1)
+### [The URL breakdown](#the-url-breakdown-1)
 ### [How to open the Developer Tools?](#how-to-open-the-developer-tools-1)
 ### [What am I supposed to do?](#what-am-i-supposed-to-do-1)
 
