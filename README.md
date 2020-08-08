@@ -73,7 +73,7 @@ I use F12 on Chrome and Firefox, but I do not see this in the documentation.
 - For both browsers you might need to change to the "Network" (or similar) Tab manually.
 
 # What am I supposed to do?
-## With the knowledge above, you should be able to detect, if you have any chance of getting tokens (assuming, your account was made in a eligible country and the functionality of the page did not change).
+### With the knowledge above, you should be able to detect, if you have any chance of getting tokens (assuming, your account was made in a eligible country and the functionality of the page did not change).
 Note: Console players might be required to do extra steps. Please consult [the US Blizzard forums](https://us.forums.blizzard.com/en/overwatch/t/2020-overwatch-league-streaming-rewards-guide-double-token-weekend/455165) or your favorite search engine.
 
 1. Open your browser.
